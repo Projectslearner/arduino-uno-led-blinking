@@ -1,19 +1,27 @@
-# arduino uno led blinking
-Arduino Uno, a popular microcontroller board, can blink an LED with simple code. Connect an LED to pin 13 with a resistor. In the Arduino IDE, write a program to set pin 13 as output, then toggle it HIGH and LOW with delay for blinking effect. Upload and watch the LED blink!
+# 1. LED Glow with Arduino:
 
-# Blink LED Arduino Uno
-Description:
-This Arduino sketch blinks an LED connected to pin 13 on the Arduino Uno board. It demonstrates a basic example of digital output using Arduino.
+# Components:
 
-# Hardware Required:
-Arduino Uno board - 1
-LED               - 1
-220-ohm resistor  - 1
-Breadboard        - 1
-Jumper wires
+- Arduino Board
+- LED
+- Resistor
+- Breadboard 
+- Jumper Wires
 
-# Instructions:
-Connect the positive (longer) leg of the LED to digital pin 13 on the Arduino Uno via a 220-ohm resistor.
-Connect the negative (shorter) leg of the LED to the ground (GND) pin on the Arduino Uno.
-Upload this sketch to the Arduino Uno using the Arduino IDE.
-Watch the LED connected to pin 13 blink on and off at one-second intervals.
+# Instructions
+
+1. Connect the LED and Resistor:
+
+- Place the LED on the breadboard.
+- Connect the longer leg (anode) of the LED to pin 9 on the Arduino.
+- Connect the shorter leg (cathode) of the LED to one end of the 220-ohm resistor.
+- Connect the other end of the resistor to the GND (ground) pin on the Arduino.
+
+2.Power the Arduino:
+
+- Plug the Arduino into a USB port or power it with an external adapter.
+
+3.Observe the LED:
+
+- The LED should light up once the Arduino is powered.
+# End of LED Glow
