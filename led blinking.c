@@ -1,18 +1,19 @@
-// Pin connected to the LED
-const int ledPin = 13;
+/*
+    Code by : Projects_learner
+    Project name : LED GLOW
+    Modified Date: 27-05-2023
+    Website : https://projectslearner.com/learn/arduino-uno-led
+*/
 
-void setup() {
-  // Initialize digital pin 13 as an output
-  pinMode(ledPin, OUTPUT);
+int LED_Pin = 13;   //set 13 as LED Pin
+void setup()
+{
+  pinMode(LED_Pin, OUTPUT);   // set a 13 pin as Output
 }
 
-void loop() {
-  // Turn the LED on
-  digitalWrite(ledPin, HIGH);
-  // Wait for 1 second
-  delay(1000);
-  // Turn the LED off
-  digitalWrite(ledPin, LOW);
-  // Wait for 1 second
-  delay(1000);
+
+void loop()
+{
+  digitalWrite(LED_Pin, HIGH);  // HIGH - LED Glow
+  delay(1000);                      
 }

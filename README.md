@@ -6,10 +6,10 @@ Description:
 This Arduino sketch blinks an LED connected to pin 13 on the Arduino Uno board. It demonstrates a basic example of digital output using Arduino.
 
 # Hardware Required:
-Arduino Uno board
-LED
-220-ohm resistor
-Breadboard
+Arduino Uno board - 1
+LED               - 1
+220-ohm resistor  - 1
+Breadboard        - 1
 Jumper wires
 
 # Instructions:
