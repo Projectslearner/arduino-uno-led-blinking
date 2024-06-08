@@ -1,7 +1,8 @@
 /*
-    Code by : Projects_learner
+    
     Project name : LED BLINK
-    Modified Date: 27-05-2023
+    Modified Date: 27-05-2024
+    Code by : Projectslearner
     Website : https://projectslearner.com/learn/arduino-uno-led-blinking
 */
 
