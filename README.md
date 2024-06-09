@@ -1,4 +1,4 @@
-# 1. LED Blinking with Arduino:
+# 1. LED Blinking with Arduino UNO:
 Learn to blink an LED using an Arduino Uno. This beginner-friendly project involves simple wiring and coding to toggle an LED on and off, demonstrating basic principles of microcontroller programming and electronics
 
 ## Components:
@@ -9,7 +9,7 @@ Learn to blink an LED using an Arduino Uno. This beginner-friendly project invol
   - Jumper Wires
 
 ## Circuit Diagram
-  ![Arduino Uno LED Blinking](https://raw.githubusercontent.com/Projectslearner/arduino-uno-led-blinking/main/Arduino%20uno%20led%20blinking.png)
+  ![Arduino Uno LED Blinking](https://raw.githubusercontent.com/Projectslearner/arduino-uno-led-blinking/main/Arduino-uno-led-blinking.png)
 
 ## Instructions
 ### 1.Connect the LED and Resistor:
